@@ -8,6 +8,10 @@ metadata:
     backstage.io/techdocs-ref: dir:https://github.com/alfredglz/backstage-test/blob/main
 techdocs:
   builder: 'local'
+  publisher:
+    type: 'local'
+  generator:
+    runIn: local
 spec:
   type: other
   lifecycle: experimental

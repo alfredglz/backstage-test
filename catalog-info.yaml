@@ -4,6 +4,7 @@ metadata:
   name: backstage-test
   annotations:
     github.com/project-slug: alfredglz/backstage-test
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown

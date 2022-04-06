@@ -4,7 +4,9 @@ metadata:
   name: backstage-test
   annotations:
     github.com/project-slug: alfredglz/backstage-test
+    backstage.io/managed-by-location: url:http://github.com/alfredglz/backstage-test/blob/main/catalog-info.yaml
     backstage.io/techdocs-ref: dir:https://github.com/alfredglz/backstage-test/blob/main
+    
 spec:
   type: other
   lifecycle: unknown

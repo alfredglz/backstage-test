@@ -7,11 +7,11 @@ metadata:
     backstage.io/managed-by-location: url:http://github.com/alfredglz/backstage-test/blob/main/catalog-info.yaml
     backstage.io/techdocs-ref: dir:https://github.com/alfredglz/backstage-test/blob/main
 techdocs:
-  builder: 'local'
+  builder: 'external'
   publisher:
-    type: 'local'
+    type: 'external'
   generator:
-    runIn: local
+    runIn: external
 spec:
   type: other
   lifecycle: experimental

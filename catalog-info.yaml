@@ -4,10 +4,6 @@ metadata:
   name: backstage-test
   annotations:
     github.com/project-slug: alfredglz/backstage-test
-  links:
-    url: https://github.com/alfredglz/backstage-test/blob/main/index.md
-    title: My Dashboard
-    icon: dashboard
 spec:
   type: other
   lifecycle: unknown

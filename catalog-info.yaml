@@ -7,7 +7,7 @@ metadata:
     backstage.io/managed-by-location: url:http://github.com/alfredglz/backstage-test/blob/main/catalog-info.yaml
     backstage.io/techdocs-ref: dir:.
   links:
-  - url: .
+  - url: https://github.com/alfredglz/backstage-test/blob/main/index.md
 spec:
   type: other
   lifecycle: experimental

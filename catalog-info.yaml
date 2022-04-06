@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: alfredglz/backstage-test
   links:
-    url: https://dashboard.example.com
+    url: https://github.com/alfredglz/backstage-test/blob/main/index.md
     title: My Dashboard
     icon: dashboard
 spec:

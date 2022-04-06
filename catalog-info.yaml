@@ -6,6 +6,8 @@ metadata:
     github.com/project-slug: alfredglz/backstage-test
     backstage.io/managed-by-location: url:http://github.com/alfredglz/backstage-test/blob/main/catalog-info.yaml
     backstage.io/techdocs-ref: dir:.
+  links:
+    url:http://github.com/alfredglz/backstage-test/blob/main/index.md
 spec:
   type: other
   lifecycle: experimental
